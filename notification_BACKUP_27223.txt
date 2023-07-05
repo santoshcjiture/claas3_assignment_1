@@ -1,5 +1,8 @@
 Hello
+<<<<<<< HEAD
 This file created in Master repo
 This file in feature-1, notification file
 
+=======
 This notification file in feature-2 branch
+>>>>>>> feature_2
